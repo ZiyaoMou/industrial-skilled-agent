@@ -1,0 +1,29 @@
+{
+  "records": [
+    {
+      "task_name": "Weld Defect Escalation",
+      "category": "Quality Root Cause",
+      "messages": [
+        "Need QRQC summary for porosity increase on station WLD-09.",
+        "Please generate 8D D4 probable root causes and D5 containment."
+      ]
+    },
+    {
+      "task_name": "Robot Arm Alarm Cluster",
+      "category": "Equipment Anomaly",
+      "messages": [
+        "Alarm ALM-447 repeated 12 times in 24h.",
+        "Need diagnostic checklist and maintenance work order fields."
+      ]
+    },
+    {
+      "task_name": "Weekly Plant Review",
+      "category": "Ops Reporting",
+      "messages": [
+        "Prepare weekly report with OEE drop explanation.",
+        "Give next-week action plan for bottleneck station."
+      ]
+    }
+  ]
+}
+
